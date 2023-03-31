@@ -1,4 +1,4 @@
-package com.company.lessonsJavarush;
+package com.company.pronko_p;
 
 import org.junit.jupiter.api.Test;
 
